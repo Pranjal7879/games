@@ -1,5 +1,6 @@
 # games
 
+![Screenshot (29)](https://github.com/Pranjal7879/games/assets/138642719/52eca4eb-f5a6-47a1-9032-5757cc900d09)
 
 
 # Dice Game
